@@ -1,7 +1,7 @@
-devid=myitchusername
+devid=tigersong
 devtitle=My Name
 gameid=my-game-title
-gametitle=My Game Title
+gametitle=My First Game
 version=0.1-dev
 icon=metadata/icon.png
 
